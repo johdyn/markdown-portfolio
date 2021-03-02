@@ -1,1 +1,1 @@
-!(../_includes/photo1.jpg)
+![image](../_includes/photo1.jpg)
